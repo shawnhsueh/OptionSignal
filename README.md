@@ -2,7 +2,7 @@
 
 ## data description
 
-* opprcd1996to2009_blablabla.csv: These files contain options for several indexes/stocks (SPX, NDX, MSFT, and KO) from 1996 to 2009. They were extracted from [here](https://www.dropbox.com/scl/fi/bq4h5ezzlebkh9evnd052/optionmWRDS_2010_05.zip?dl=0&oref=e&r=AB4WoH1qJwJ2ij0XMcuWbYxqiB66L6S8Rx-6VyWRhZdwIadT8o4WcDj-dCgQp44ys1rQ4Cysy_3BrG5DYqC_YjxENbMuaoDsCzFiVPnvLumd-HbkOzjjsdvZ-hPM0-PQQU8oCEtOPclskhjTYM18_TxTRF0CGbx9I7c073hRh7wRdjxUevLGGVSoHP3K9YPYGZE&sm=1).
+* opprcd1996to2009_blablabla.csv: These files contain options for several indexes/stocks (SPX, NDX, MSFT, and KO) from 1996 to 2009. They were extracted from [here](https://www.dropbox.com/scl/fi/bq4h5ezzlebkh9evnd052/optionmWRDS_2010_05.zip?dl=0&oref=e&r=AB4WoH1qJwJ2ij0XMcuWbYxqiB66L6S8Rx-6VyWRhZdwIadT8o4WcDj-dCgQp44ys1rQ4Cysy_3BrG5DYqC_YjxENbMuaoDsCzFiVPnvLumd-HbkOzjjsdvZ-hPM0-PQQU8oCEtOPclskhjTYM18_TxTRF0CGbx9I7c073hRh7wRdjxUevLGGVSoHP3K9YPYGZE&sm=1), which were originally downloaded from [WRDS optionMetrics](https://wrds-www.wharton.upenn.edu/pages/get-data/optionmetrics-trial/ivy-db-us/options/option-prices/).
 
 * stock.csv: This was downloaded from [WRDS Stock / Security files](https://wrds-www.wharton.upenn.edu/pages/get-data/center-research-security-prices-crsp/annual-update/stock-security-files/daily-stock-file/). It contains the daily stock prices from 1996 to 2022 for SPY, QQQ, MSFT, and KO. The variable description could be found in the 'Variable Description' tab in the download page.
 
